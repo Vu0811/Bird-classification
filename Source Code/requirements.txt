@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+torch
+torchvision
+tensorboard
+jupyter
+tqdm
+PIL 
+pickle
